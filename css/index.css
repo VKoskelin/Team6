@@ -7,9 +7,35 @@ div {
 .col-3{
     background-color: rgb(250, 249, 249);
 }
+
 article {
     padding: 10px;
     margin: 10px;
     background: rgb(65, 150, 164, 255);
-    font-size: smaller;
+    font-size:medium;
+  }
+ 
+  .whitetext {
+    color:white;
+  }
+  h1 {
+    text-align: center;
+    color: white;
+    line-height: 25px;
+    margin: 0;
+    font-size: medium;
+  }
+  h2 {
+    text-align: center;
+    color: white;
+    line-height: 25px;
+    margin: 0;
+    font-size: medium;
+  }
+  h3 {
+    text-align: center;
+    color: white;
+    line-height: 25px;
+    margin: 0;
+    font-size: medium;
   }
