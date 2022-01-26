@@ -7,7 +7,12 @@ div {
 .col-3{
     background-color: rgb(250, 249, 249);
 }
-
+.further-info{
+  background-color: azure;
+  box-shadow: inset 0 3px 2px rgba(0,0,0,0.5),
+              inset 0 -3px 2px rgba(0,0,0,0.5);
+  text-align: center;
+}
 article {
     padding: 10px;
     margin: 10px;
