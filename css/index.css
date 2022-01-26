@@ -1,0 +1,15 @@
+body {
+    background-color:rgb(233, 234, 237, 255);
+}
+div {
+    background-color:rgb(0, 25, 76, 255);
+}
+.col-3{
+    background-color: rgb(250, 249, 249);
+}
+article {
+    padding: 10px;
+    margin: 10px;
+    background: rgb(65, 150, 164, 255);
+    font-size: smaller;
+  }
