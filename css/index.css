@@ -4,8 +4,6 @@ body {
 div {
   background-color:rgb(237, 238, 221);
 }
-a:link{
-}
 header{
   background-color:rgb(0, 25, 76, 255) ;
 }
@@ -40,6 +38,7 @@ header{
  }
  .col-sm2{
   background-color: rgb(246, 248, 248);
+  display:-ms-grid;
 }
 hr { 
   display: block; 
@@ -66,6 +65,7 @@ article {
   padding: 10px;
   margin: 10px;
   background:white;
+  text-align:center;
  }
 .whitetext {
   color:white;
