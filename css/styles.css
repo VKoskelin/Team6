@@ -1,0 +1,10 @@
+.col-3> p::first-letter{
+    color:rgb(65, 150, 164);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.85rem;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-right: 8px;
+    min-width: 36px;
+    text-align: center;
+  }
