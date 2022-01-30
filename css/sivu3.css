@@ -5,28 +5,45 @@ body{
 header{
 background-color: rgb(0, 25, 76, 255);
 }
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 550;
+    color: black;
+    font-size: 25px;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 550;
+    color: black;
+    font-size: 25px;
+}
+h3{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 550;
+color: rgb(0,81,141,255);
+}
+h4{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 550;
+    color: rgb(0,81,141,255);
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 550;
+    color: rgb(0,81,141,255);
+}
+h6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 550;
+    color: rgb(0,81,141,255);
+}
 .col-3{
 }
 
 .col-sm1{
     background-color: white;
 }
-.col-sm2{
-    background-color: white;
-}
-
-    
-
-article{
-    background-color: white;
-}
-
-
-
-
-
-
-    
 .col-sm1> p::first-letter{
     color:rgb(65, 150, 164);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -36,8 +53,16 @@ article{
     margin-right: 8px;
     min-width: 36px;
     text-align: center;
+}
 
-    
+.col-sm2{
+    background-color: white;
+}
+col-6{
+   
+}
+article{
+    background-color: white;    
 }
 hr{
     font-size: "10";
@@ -45,11 +70,6 @@ hr{
     color: black;
     border-style: initial;
 }
-
-
-
-
-
 .further-info{
     background-color:rgb(248, 248, 248, 255);
     text-align: center;
@@ -57,6 +77,7 @@ hr{
 
 }
 .container1{
+    background-color:white;
     display: inline;
     margin-right: 1em;
     text-align: center;
