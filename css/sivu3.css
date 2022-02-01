@@ -1,9 +1,8 @@
+
 body{
     background-color:rgb(233, 234, 237, 255);
 
-}
-header{
-background-color: rgb(0, 25, 76, 255);
+
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -83,3 +82,18 @@ hr{
     text-align: center;
     word-spacing: .5rem;
   }
+  @media only screen and (max-width:700px){
+
+    .esimerkki{
+       margin: auto;
+     }
+     .esimerkki2{
+        margin: auto; 
+        margin-top: 50%; 
+    }
+    .sidebar box{
+        width: 100%; (full width)
+        float: left; (right-edge wrap)
+    }
+    
+    
