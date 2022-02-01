@@ -65,7 +65,6 @@ article {
   padding: 10px;
   margin: 10px;
   background:white;
-  text-align:center;
  }
 .whitetext {
   color:white;
@@ -76,7 +75,6 @@ article {
   font-size: x-large;
   }
 h1 {
-  text-align: center;
   color: white;
   line-height: 25px;
   margin: 0;
@@ -84,24 +82,22 @@ h1 {
   }
   @media only screen and (max-width:700px){
 
-    .esimerkki{
-       margin: auto;
+    .sidebar{
+       margin:auto;
      }
-     .esimerkki2{
+     .nasdaq{
         margin: auto; 
         margin-top: 50%; 
     }
     
     }
 h2 {
-  text-align: center;
   color: white;
   line-height: 25px;
   margin: 0;
   font-size: medium;
   }
 h3 {
-  text-align: center;
   color: white;
   line-height: 25px;
   margin: 0;
